@@ -13,11 +13,7 @@ from liffpy import (
     ErrorResponse
 )
 
-#======這裡是呼叫的檔案內容=====
-from message import *
-from new import *
-from Function import *
-#======這裡是呼叫的檔案內容=====
+
 
 #======python的函數庫==========
 import  os
